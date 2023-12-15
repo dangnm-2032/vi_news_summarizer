@@ -1,0 +1,6 @@
+Stages:
+    1. Data crawl -> Filter -> Transform
+    2. Use PhoGPT to generate news summarization
+    3. Get more dataset: vietgpt/news_summarization_vi
+    4. Train
+    5. Evaluate
